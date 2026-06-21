@@ -1,6 +1,7 @@
 # Football and the FIFA World Cup 2026
 
 
+
 ## What Is Football?
 
 Football, also known as soccer in some countries, is a team sport played by two teams of 11 players each. The main objective is to score more goals than the opposing team within 90 minutes of normal time, divided into two halves of 45 minutes.
